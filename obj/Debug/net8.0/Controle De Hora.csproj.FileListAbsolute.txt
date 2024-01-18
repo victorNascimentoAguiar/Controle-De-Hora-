@@ -12,3 +12,4 @@ C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\refint\C
 C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.pdb
 C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.genruntimeconfig.cache
 C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\ref\Controle De Hora.dll
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.sourcelink.json
