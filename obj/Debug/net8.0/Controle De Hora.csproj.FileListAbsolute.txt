@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\bin\Debug\net8.0\Controle De Hora.exe
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\bin\Debug\net8.0\Controle De Hora.deps.json
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\bin\Debug\net8.0\Controle De Hora.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\bin\Debug\net8.0\Controle De Hora.dll
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\bin\Debug\net8.0\Controle De Hora.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.dll
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\refint\Controle De Hora.dll
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\Controle De Hora.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\C#\Controle De Hora\obj\Debug\net8.0\ref\Controle De Hora.dll
