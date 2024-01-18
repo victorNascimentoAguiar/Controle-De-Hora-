@@ -4,7 +4,7 @@ List<string>agenda = new List<string>();
 Console.WriteLine("sua agenda ");
 while(exibirMenu)
 {
-    //menu com as opçôes de função
+    //menu com as opçôes de funções
     Console.WriteLine("1-adicionar  item na agenda");
     Console.WriteLine("2-remover item da agenda");
     Console.WriteLine("3-mostrar agenda");
